@@ -31,6 +31,7 @@ DEFAULT_BUILD_MATRIX = {
         {"sub_level": "74", "os_patch_level": "2023-01"},
         {"sub_level": "123", "os_patch_level": "2023-11"},
         {"sub_level": "148", "os_patch_level": "2024-05"},
+        {"sub_level": "149", "os_patch_level": "2024-07"},
         {"sub_level": "170", "os_patch_level": "2025-01"},
         {"sub_level": "178", "os_patch_level": "2025-03"},
         {"sub_level": "180", "os_patch_level": "2025-05"},
